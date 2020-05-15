@@ -1,0 +1,12 @@
+spring:
+  profiles:
+    active: dev
+  messages:
+    encoding: UTF-8
+  
+server:
+  port: 80
+#  servlet:
+#    context-path: /wx
+  
+ 
